@@ -1,0 +1,89 @@
+body {
+  font: 16px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/back.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/back.jpg);
+  background-size: cover;
+}
+html,body{
+  height: 100%;
+}
+.card{
+  margin:5px;
+  width: 80%;
+  background-color:#F8F8F8;
+  border-radius: 20px;
+  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5), -4px -4px 15px rgba(0, 0, 0, 0.3);
+  margin-top: 50px;
+  margin-bottom: 11px;
+}
+
+ .header{
+    padding: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+   background-color:#fff;
+   border-bottom: 2px solid 
+   rgba(255, 187, 11, 0.75);
+   margin-bottom: 20px;
+ }
+ .ques{
+  padding: 20px;
+  margin-bottom: 20px;
+ }
+ .input{
+   width: 70%;
+   padding:5px 10px;
+   font-size: 20px;
+   border-radius: 10px;
+   border:1px solid #FFBB0B;
+ }
+ .input:focus{
+  border-radius: 10px;
+  outline-color:#FFBB0B;
+ }
+ .btn{
+   margin-top: 50px;
+  width: fit-content;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+display: inline-block;
+padding: 10px 30px;
+text-decoration: none;
+border-radius: 200px;
+-webkit-transition: background-color 0.2s, border 0.2s, color 0.2s;
+transition: background-color 0.2s, border 0.2s, color 0.2s;
+}
+
+.btn-full {
+color: #fff;
+margin-right: 15px;
+}
+
+.btn1{
+  background-color: #FFBB0B;
+}
+.btn1:hover{
+  color: #fff;
+  background-color: #FFBB0B; 
+    box-shadow: 2px 2px 20px #FFBB0B;
+}
+.btn3{
+  background-color: #FB5D83;
+}
+.btn3:hover{
+  color: #fff;
+  background-color:  #FB5D83; 
+    box-shadow: 2px 2px 20px #FB5D83;
+}
+@media only screen and (max-width: 480px){
+  .card{
+    width: 90%;
+  }
+  h3{
+    font-size: 1.4rem;
+  }
+  .btn{
+    margin-top: 20px;
+  }
+}
