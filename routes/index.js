@@ -56,7 +56,7 @@ router.get('/g6bill gates', function(req, res, next) {
 router.get('/g7nokia', function(req, res, next) {
   res.render('index', { title:'images/q24.JPG'});
 });
-router.get('/g8flipcart', function(req, res, next) {
+router.get('/g8flipkart', function(req, res, next) {
   res.render('index', { title: 'images/q24.JPG' });
 });
 router.get('/g9independence', function(req, res, next) {
@@ -89,7 +89,7 @@ router.get('/g6bill gatesblackberry', function(req, res, next) {
 router.get('/g7nokiastarbucks', function(req, res, next) {
   res.render('index', { title:'images/q32.JPG'});
 });
-router.get('/g8flipcartstarbucks', function(req, res, next) {
+router.get('/g8flipcaktstarbucks', function(req, res, next) {
   res.render('index', { title: 'images/q32.JPG' });
 });
 router.get('/g9independenceindia mart', function(req, res, next) {
@@ -123,7 +123,7 @@ router.get('/g6bill gatesblackberrygateway of india', function(req, res, next) {
 router.get('/g7nokiastarbucksgateway of india', function(req, res, next) {
   res.render('index', { title:'images/q41.jpg'});
 });
-router.get('/g8flipcartstarbucksgateway of india', function(req, res, next) {
+router.get('/g8flipkartstarbucksgateway of india', function(req, res, next) {
   res.render('index', { title: 'images/q41.jpg' });
 });
 router.get('/g9independenceindia martall lives matter', function(req, res, next) {
@@ -155,7 +155,7 @@ router.get('/g6bill gatesblackberrygateway of indiazindgi na milegi dobara', fun
 router.get('/g7nokiastarbucksgateway of indiazindgi na milegi dobara', function(req, res, next) {
   return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
-router.get('/g8flipcartstarbucksgateway of indiazindgi na milegi dobara', function(req, res, next) {
+router.get('/g8flipkartstarbucksgateway of indiazindgi na milegi dobara', function(req, res, next) {
  return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
 router.get('/g9independenceindia martall lives matterzindgi na milegi dobara', function(req, res, next) {
