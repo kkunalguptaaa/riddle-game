@@ -135,34 +135,34 @@ router.get('/g10booksechoindia martall lives matter', function(req, res, next) {
 //master url
 
 router.get('/g1tiredrang de basntilgbtq pride monthzindgi na milegi dobara', function(req, res, next) {
-  return res.redirect("https://meet.google.com/eah-zkzt-bfm");
+  return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
 router.get('/g2water fallrang de basntilgbtq pride monthzindgi na milegi dobara', function(req, res, next) {
-  return res.redirect("https://meet.google.com/eah-zkzt-bfm");
+  return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
 router.get('/g3hush puppiesoverlooklgbtq pride monthzindgi na milegi dobara', function(req, res, next) {
-  return res.redirect("https://meet.google.com/eah-zkzt-bfm");
+  return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
 router.get('/g4whatsappoverlooklgbtq pride monthzindgi na milegi dobara', function(req, res, next) {
- return res.redirect("https://meet.google.com/eah-zkzt-bfm");
+ return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
 router.get('/g5goldrusblackberrygateway of indiazindgi na milegi dobara', function(req, res, next) {
- return res.redirect("https://meet.google.com/eah-zkzt-bfm");
+ return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
 router.get('/g6bill gatesblackberrygateway of indiazindgi na milegi dobara', function(req, res, next) {
- return res.redirect("https://meet.google.com/eah-zkzt-bfm");
+ return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
 router.get('/g7nokiastarbucksgateway of indiazindgi na milegi dobara', function(req, res, next) {
-  return res.redirect("https://meet.google.com/eah-zkzt-bfm");
+  return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
 router.get('/g8flipcartstarbucksgateway of indiazindgi na milegi dobara', function(req, res, next) {
- return res.redirect("https://meet.google.com/eah-zkzt-bfm");
+ return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
 router.get('/g9independenceindia martall lives matterzindgi na milegi dobara', function(req, res, next) {
- return res.redirect("https://meet.google.com/eah-zkzt-bfm");
+ return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
 router.get('/g10booksechoindia martall lives matterzindgi na milegi dobara', function(req, res, next) {
- return res.redirect("https://meet.google.com/eah-zkzt-bfm");
+ return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
 //
 //answer handler
