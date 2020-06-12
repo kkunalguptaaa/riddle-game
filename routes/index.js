@@ -4,99 +4,99 @@ var router = express.Router();
 /* GET home page. */
 
 router.get('/g1', function(req, res, next) {
-  res.render('index', { title: 'images/q11.jpg' });
+  res.render('index', { title: 'images/q11.JPG' });
 });
 router.get('/g2', function(req, res, next) {
-  res.render('index', { title:'images/q12.jpg'});
+  res.render('index', { title:'images/q12.JPG'});
 });
 router.get('/g3', function(req, res, next) {
-  res.render('index', { title: 'images/q13.jpg' });
+  res.render('index', { title: 'images/q13.JPG' });
 });
 router.get('/g4', function(req, res, next) {
-  res.render('index', { title: 'images/q14.jpg' });
+  res.render('index', { title: 'images/q14.JPG' });
 });
 router.get('/g5', function(req, res, next) {
-  res.render('index', { title: 'images/q15.jpg' });
+  res.render('index', { title: 'images/q15.JPG' });
 });
 router.get('/g6', function(req, res, next) {
-  res.render('index', { title: 'images/q16.jpg' });
+  res.render('index', { title: 'images/q16.JPG' });
 });
 router.get('/g7', function(req, res, next) {
-  res.render('index', { title: 'images/q17.jpg' });
+  res.render('index', { title: 'images/q17.JPG' });
 });
 router.get('/g8', function(req, res, next) {
-  res.render('index', { title: 'images/q18.jpg' });
+  res.render('index', { title: 'images/q18.JPG' });
 });
 router.get('/g9', function(req, res, next) {
-  res.render('index', { title: 'images/q19.jpg' });
+  res.render('index', { title: 'images/q19.JPG' });
 });
 router.get('/g10', function(req, res, next) {
-  res.render('index', { title: 'images/q110.jpg' });
+  res.render('index', { title: 'images/q110.JPG' });
 });
 //level2
 
 router.get('/g1tired', function(req, res, next) {
-  res.render('index', { title: 'images/q21.jpg' });
+  res.render('index', { title: 'images/q21.JPG' });
 });
 router.get('/g2water fall', function(req, res, next) {
-  res.render('index', { title:'images/q21.jpg'});
+  res.render('index', { title:'images/q21.JPG'});
 });
 router.get('/g3hush puppies', function(req, res, next) {
-  res.render('index', { title: 'images/q22.jpg' });
+  res.render('index', { title: 'images/q22.JPG' });
 });
 router.get('/g4whatsapp', function(req, res, next) {
-  res.render('index', { title: 'images/q22.jpg' });
+  res.render('index', { title: 'images/q22.JPG' });
 });
 router.get('/g5goldrus', function(req, res, next) {
-  res.render('index', { title: 'images/q23.jpg' });
+  res.render('index', { title: 'images/q23.JPG' });
 });
 router.get('/g6bill gates', function(req, res, next) {
-  res.render('index', { title: 'images/q23.jpg' });
+  res.render('index', { title: 'images/q23.JPG' });
 });
 router.get('/g7nokia', function(req, res, next) {
-  res.render('index', { title:'images/q24.jpg'});
+  res.render('index', { title:'images/q24.JPG'});
 });
 router.get('/g8flipcart', function(req, res, next) {
-  res.render('index', { title: 'images/q24.jpg' });
+  res.render('index', { title: 'images/q24.JPG' });
 });
 router.get('/g9independence', function(req, res, next) {
-  res.render('index', { title: 'images/q25.jpg' });
+  res.render('index', { title: 'images/q25.JPG' });
 });
 router.get('/g10booksecho', function(req, res, next) {
-  res.render('index', { title: 'images/q25.jpg' });
+  res.render('index', { title: 'images/q25.JPG' });
 });
 
 //level3
 
 router.get('/g1tiredrang de basnti', function(req, res, next) {
-  res.render('index', { title: 'images/q31.jpg' });
+  res.render('index', { title: 'images/q31.JPG' });
 });
 router.get('/g2water fallrang de basnti', function(req, res, next) {
-  res.render('index', { title:'images/q31.jpg'});
+  res.render('index', { title:'images/q31.JPG'});
 });
 router.get('/g3hush puppiesoverlook', function(req, res, next) {
-  res.render('index', { title: 'images/q31.jpg' });
+  res.render('index', { title: 'images/q31.JPG' });
 });
 router.get('/g4whatsappoverlook', function(req, res, next) {
-  res.render('index', { title: 'images/q31.jpg' });
+  res.render('index', { title: 'images/q31.JPG' });
 });
 router.get('/g5goldrusblackberry', function(req, res, next) {
-  res.render('index', { title: 'images/q32.jpg' });
+  res.render('index', { title: 'images/q32.JPG' });
 });
 router.get('/g6bill gatesblackberry', function(req, res, next) {
-  res.render('index', { title: 'images/q32.jpg' });
+  res.render('index', { title: 'images/q32.JPG' });
 });
 router.get('/g7nokiastarbucks', function(req, res, next) {
-  res.render('index', { title:'images/q32.jpg'});
+  res.render('index', { title:'images/q32.JPG'});
 });
 router.get('/g8flipcartstarbucks', function(req, res, next) {
-  res.render('index', { title: 'images/q32.jpg' });
+  res.render('index', { title: 'images/q32.JPG' });
 });
 router.get('/g9independenceindia mart', function(req, res, next) {
-  res.render('index', { title: 'images/q33.jpg' });
+  res.render('index', { title: 'images/q33.JPG' });
 });
 router.get('/g10booksechoindia mart', function(req, res, next) {
-  res.render('index', { title: 'images/q33.jpg' });
+  res.render('index', { title: 'images/q33.JPG' });
 });
 //
 
