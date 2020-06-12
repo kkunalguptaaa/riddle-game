@@ -149,7 +149,7 @@ router.get('/g4whatsappoverlooklgbtqpridemonthzindaginamilegidobara', function(r
 router.get('/g5goldrusblackberrygatewayofindiazindaginamilegidobara', function(req, res, next) {
  return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
-router.get('/g6bill gatesblackberrygatewayofindiazindaginamilegidobara',function(req, res, next) {
+router.get('/g6billgatesblackberrygatewayofindiazindaginamilegidobara',function(req, res, next) {
  return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
 router.get('/g7nokiastarbucksgatewayofindiazindaginamilegidobara', function(req, res, next) {
