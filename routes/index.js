@@ -4,34 +4,34 @@ var router = express.Router();
 /* GET home page. */
 
 router.get('/g1', function(req, res, next) {
-  res.render('index', { title: 'images/q1.jpg' });
+  res.render('index', { title: 'images/q11.jpg' });
 });
 router.get('/g2', function(req, res, next) {
-  res.render('index', { title:'images/q2.jpg'});
+  res.render('index', { title:'images/q12.jpg'});
 });
 router.get('/g3', function(req, res, next) {
-  res.render('index', { title: 'images/q3.jpg' });
+  res.render('index', { title: 'images/q13.jpg' });
 });
 router.get('/g4', function(req, res, next) {
-  res.render('index', { title: 'images/q4.jpg' });
+  res.render('index', { title: 'images/q14.jpg' });
 });
 router.get('/g5', function(req, res, next) {
-  res.render('index', { title: 'images/q5.jpg' });
+  res.render('index', { title: 'images/q15.jpg' });
 });
 router.get('/g6', function(req, res, next) {
-  res.render('index', { title: 'images/q6.jpg' });
+  res.render('index', { title: 'images/q16.jpg' });
 });
 router.get('/g7', function(req, res, next) {
-  res.render('index', { title: 'images/q7.jpg' });
+  res.render('index', { title: 'images/q17.jpg' });
 });
 router.get('/g8', function(req, res, next) {
-  res.render('index', { title: 'images/q8.jpg' });
+  res.render('index', { title: 'images/q18.jpg' });
 });
 router.get('/g9', function(req, res, next) {
-  res.render('index', { title: 'images/q9.jpg' });
+  res.render('index', { title: 'images/q19.jpg' });
 });
 router.get('/g10', function(req, res, next) {
-  res.render('index', { title: 'images/q10.jpg' });
+  res.render('index', { title: 'images/q110.jpg' });
 });
 //level2
 
