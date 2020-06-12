@@ -103,34 +103,34 @@ router.get('/g10booksechoindiamart', function(req, res, next) {
 //level4
 
 router.get('/g1tiredrangdebasantilgbtqpridemonth',function(req, res, next) {
-  res.render('index', { title: 'images/q41.jpg' });
+  res.render('index', { title: 'images/q41.JPG' });
 });
 router.get('/g2waterfallrangdebasantilgbtqpridemonth', function(req, res, next) {
-  res.render('index', { title:'images/q41.jpg'});
+  res.render('index', { title:'images/q41.JPG'});
 });
 router.get('/g3hushpuppiesoverlooklgbtqpridemonth', function(req, res, next) {
-  res.render('index', { title: 'images/q41.jpg' });
+  res.render('index', { title: 'images/q41.JPG' });
 });
 router.get('/g4whatsappoverlooklgbtqpridemonth', function(req, res, next) {
-  res.render('index', { title: 'images/q41.jpg' });
+  res.render('index', { title: 'images/q41.JPG' });
 });
 router.get('/g5goldrusblackberrygatewayofindia', function(req, res, next) {
-  res.render('index', { title: 'images/q41.jpg' });
+  res.render('index', { title: 'images/q41.JPG' });
 });
 router.get('/g6billgatesblackberrygatewayofindia', function(req, res, next) {
-  res.render('index', { title: 'images/q41.jpg' });
+  res.render('index', { title: 'images/q41.JPG' });
 });
 router.get('/g7nokiastarbucksgatewayofindia', function(req, res, next) {
-  res.render('index', { title:'images/q41.jpg'});
+  res.render('index', { title:'images/q41.JPG'});
 });
 router.get('/g8flipkartstarbucksgatewayofindia', function(req, res, next) {
-  res.render('index', { title: 'images/q41.jpg' });
+  res.render('index', { title: 'images/q41.JPG' });
 });
 router.get('/g9independenceindiamartalllivematters', function(req, res, next) {
-  res.render('index', { title: 'images/q41.jpg' });
+  res.render('index', { title: 'images/q41.JPG' });
 });
 router.get('/g10booksechoindiamartalllivematters', function(req, res, next) {
-  res.render('index', { title: 'images/q41.jpg' });
+  res.render('index', { title: 'images/q41.JPG' });
 });
 //master url
 
