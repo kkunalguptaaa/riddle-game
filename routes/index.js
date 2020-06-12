@@ -134,34 +134,34 @@ router.get('/g10booksechoindiamartalllivematters', function(req, res, next) {
 });
 //master url
 
-router.get('/g1tiredrangdebasantilgbtqpridemonthzindginamilegidobara', function(req, res, next) {
+router.get('/g1tiredrangdebasantilgbtqpridemonthzindaginamilegidobara', function(req, res, next) {
   return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
-router.get('/g2waterfallrangdebasantilgbtqpridemonthzindginamilegidobara', function(req, res, next) {
+router.get('/g2waterfallrangdebasantilgbtqpridemonthzindaginamilegidobara', function(req, res, next) {
   return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
-router.get('/g3hushpuppiesoverlooklgbtqpridemonthzindginmilegidobara', function(req, res, next) {
+router.get('/g3hushpuppiesoverlooklgbtqpridemonthzindaginmilegidobara', function(req, res, next) {
   return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
-router.get('/g4whatsappoverlooklgbtqpridemonthzindginamilegidobara', function(req, res, next) {
+router.get('/g4whatsappoverlooklgbtqpridemonthzindaginamilegidobara', function(req, res, next) {
  return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
-router.get('/g5goldrusblackberrygatewayofindiazindginamilegidobara', function(req, res, next) {
+router.get('/g5goldrusblackberrygatewayofindiazindaginamilegidobara', function(req, res, next) {
  return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
-router.get('/g6bill gatesblackberrygatewayofindiazindginamilegidobara',function(req, res, next) {
+router.get('/g6bill gatesblackberrygatewayofindiazindaginamilegidobara',function(req, res, next) {
  return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
-router.get('/g7nokiastarbucksgatewayofindiazindginamilegidobara', function(req, res, next) {
+router.get('/g7nokiastarbucksgatewayofindiazindaginamilegidobara', function(req, res, next) {
   return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
-router.get('/g8flipkartstarbucksgatewayofindiazindginamilegidobara', function(req, res, next) {
+router.get('/g8flipkartstarbucksgatewayofindiazindaginamilegidobara', function(req, res, next) {
  return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
-router.get('/g9independenceindiamartalllivematterszindginamilegidobara', function(req, res, next) {
+router.get('/g9independenceindiamartalllivematterszindaginamilegidobara', function(req, res, next) {
  return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
-router.get('/g10booksechoindiamartalllivematterszindginamilegidobara', function(req, res, next) {
+router.get('/g10booksechoindiamartalllivematterszindaginamilegidobara', function(req, res, next) {
  return res.redirect("https://meet.google.com/guu-xris-vwm");
 });
 //
