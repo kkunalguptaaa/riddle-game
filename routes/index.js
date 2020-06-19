@@ -7,214 +7,164 @@ router.get('',function(req,res){
 })
 router.get('/g1', (req, res) =>{
   res.render('index', { title: 'images/q11.jpg',hint:"Easy One...!" });
- var g1=0;
 });
 router.get('/g2', function(req, res, next) {
   res.render('index', { title:'images/q12.jpg',hint:"Easy One...!" });
-  var g2=0;
-});
+ });
 router.get('/g3', function(req, res, next) {
   res.render('index', { title: 'images/q13.jpg',hint:"Easy One...!"  });
-  var g3=0;
-});
+ });
 router.get('/g4', function(req, res, next) {
   res.render('index', { title: 'images/q14.jpg',hint:"Kuch tasveeryein jawab bayan karti hai..!" });
-  var g4=0;
-});
+ });
 router.get('/g5', function(req, res, next) {
   res.render('index', { title: 'images/q15.jpg',hint:"Kabhi kabhi sawal bhi jawab aasan kartai hai..!" });
-  var g5=0;
-});
+ });
 router.get('/g6', function(req, res, next) {
   res.render('index', { title: 'images/q16.jpg',hint:"Easy One...!" });
-  var g6=0;
-});
+ });
 router.get('/g7', function(req, res, next) {
   res.render('index', { title: 'images/q17.jpg',hint:"yaadein puzzle ki trh hoti hai jo lamho ki tasveeryein jodkar mukamal hoti hai..!" });
-  var g7=0;
-});
+ });
 router.get('/g8', function(req, res, next) {
   res.render('index', { title: 'images/q18.jpg',hint:"Easy One...!" });
-  var g8=0;
-});
+ });
 router.get('/g9', function(req, res, next) {
   res.render('index', { title: 'images/q19.jpg',hint:"itss easy...!" });
-  var g9=0;
-});
+ });
 router.get('/g10', function(req, res, next) {
   res.render('index', { title: 'images/q110.jpg',hint:"dummy hint" });
-  var g10=0;
 });
 //level2
 
 router.get('/g1socialdistancing', function(req, res, next) {
   res.render('index', { title: 'images/q21.jpg',hint:"Easy One...!" });
-  g1++;
 });
 router.get('/g2callofduty', function(req, res, next) {
   res.render('index', { title:'images/q21.jpg',hint:"Easy One...!"});
-  g2++;
 });
 router.get('/g3indianexpress', function(req, res, next) {
   res.render('index', { title: 'images/q22.jpg',hint:"Easy One...!" });
-  g3++;
 });
-router.get('/g4netflix', function(req, res, next) {
+router.get('/g4netflixandchill', function(req, res, next) {
   res.render('index', { title: 'images/q22.jpg',hint:"Easy One...!" });
-  g4++;
 });
 router.get('/g5amphancyclone', function(req, res, next) {
   res.render('index', { title: 'images/q23.jpg',hint:"Easy One...!" });
-  g5++;
 });
 router.get('/g6dandimarch', function(req, res, next) {
   res.render('index', { title: 'images/q23.jpg',hint:"Easy One...!" });
-  g6++;
 });
 router.get('/g7lego', function(req, res, next) {
   res.render('index', { title:'images/q24.jpg',hint:"Easy One...!"});
-  g7++;
 });
 router.get('/g8maxlifeinsurance', function(req, res, next) {
   res.render('index', { title: 'images/q24.jpg',hint:"Easy One...!" });
-  g8++;
 });
 router.get('/g9businessstandard', function(req, res, next) {
   res.render('index', { title: 'images/q25.jpg',hint:"Easy One...!" });
-  g9++;
 });
 router.get('/g10herohonda', function(req, res, next) {
   res.render('index', { title: 'images/q25.jpg',hint:"Easy One...!" });
-  g10++;
 });
 
 //level3
 
 router.get('/g1socialdistancingmoneyheist', function(req, res, next) {
   res.render('index', { title: 'images/q31.jpg',hint:"Easy One...!" });
-  g1++;
 });
 router.get('/g2callofdutymoneyheist', function(req, res, next) {
   res.render('index', { title:'images/q31.jpg',hint:"Easy One...!"});
-  g2++;
 });
 router.get('/g3indianexpressspacex', function(req, res, next) {
   res.render('index', { title: 'images/q31.jpg',hint:"Easy One...!" });
-  g3++;
 });
-router.get('/g4netflixspacex', function(req, res, next) {
+router.get('/g4netflixandchillspacex', function(req, res, next) {
   res.render('index', { title: 'images/q32.jpg',hint:"Easy One...!" });
-  g4++;
 });
 router.get('/g5amphancyclonemario', function(req, res, next) {
   res.render('index', { title: 'images/q32.jpg',hint:"Easy One...!" });
-  g5++;
 });
 router.get('/g6dandimarchmario', function(req, res, next) {
   res.render('index', { title: 'images/q32.jpg',hint:"Easy One...!" });
-  g6++;
 });
 router.get('/g7legoqueereye', function(req, res, next) {
   res.render('index', { title:'images/q33.jpg',hint:"Easy One...!"});
-  g7++;
 });
 router.get('/g8maxlifeinsurancequeereye', function(req, res, next) {
   res.render('index', { title: 'images/q33.jpg',hint:"Easy One...!" });
-  g8++;
 });
 router.get('/g9businessstandardnrnarayanamurthy', function(req, res, next) {
   res.render('index', { title: 'images/q33.jpg',hint:"Easy One...!" });
-  g9++;
 });
 router.get('/g10herohondanrnarayanamurthy', function(req, res, next) {
   res.render('index', { title: 'images/q33.jpg',hint:"Easy One...!" });
-  g10++;
 });
 //
 
 //level4
 
 router.get('/g1socialdistancingmoneyheistbridgestone',function(req, res, next) {
-  g1++;
-  res.render('index', { title: 'images/q41.jpg',hint:"Easy One...!" });
+  res.render('index', { title: 'images/q41.jpg',hint:"try this one guys..!" });
 });
 router.get('/g2callofdutymoneyheistbridgestone', function(req, res, next) {
-  g2++;
-  res.render('index', { title:'images/q41.jpg',hint:"Easy One...!"});
+  res.render('index', { title:'images/q41.jpg',hint:"try this one guys..!"});
 });
 router.get('/g3indianexpressspacexbridgestone', function(req, res, next) {
-  g3++;
-  res.render('index', { title: 'images/q41.jpg',hint:"Easy One...!" });
+  res.render('index', { title: 'images/q41.jpg',hint:"try this one guys..!" });
 });
-router.get('/g4netflixspacexfacebook', function(req, res, next) {
-  g4++;
-  res.render('index', { title: 'images/q41.jpg',hint:"Easy One...!" });
+router.get('/g4netflixandchillspacexfacebook', function(req, res, next) {
+  res.render('index', { title: 'images/q41.jpg',hint:"try this one guys..!" });
 });
 router.get('/g5amphancyclonemariofacebook', function(req, res, next) {
-  g5++;
-  res.render('index', { title: 'images/q41.jpg',hint:"Easy One...!" });
+  res.render('index', { title: 'images/q41.jpg',hint:"try this one guys..!" });
 });
 router.get('/g6dandimarchmariofacebook', function(req, res, next) {
-  g6++;
-  res.render('index', { title: 'images/q41.jpg',hint:"Easy One...!" });
+  res.render('index', { title: 'images/q41.jpg',hint:"try this one guys..!" });
 });
 router.get('/g7legoqueereyecontinentaltyre', function(req, res, next) {
-  g7++;
-  res.render('index', { title:'images/q41.jpg',hint:"Kuch tasveeryein jawab bayan karti hai..!"});
+  res.render('index', { title:'images/q41.jpg',hint:"try this one guys..!"});
 });
 router.get('/g8maxlifeinsurancequeereyecontinentaltyre', function(req, res, next) {
-  g8++;
-  res.render('index', { title: 'images/q41.jpg',hint:"yaadein puzzle ki trh hoti hai jo lamho ki tasveeryein jodkar mukamal hoti hai..!" });
+  res.render('index', { title: 'images/q41.jpg',hint:"try this one guys..!" });
 });
 router.get('/g9businessstandardnrnarayanamurthycontinentaltyre', function(req, res, next) {
-  g9++
-  res.render('index', { title: 'images/q41.jpg',hint:"yaadein puzzle ki trh hoti hai jo lamho ki tasveeryein jodkar mukamal hoti hai..!" });
+  res.render('index', { title: 'images/q41.jpg',hint:"try this one guys..!" });
 });
 router.get('/g10herohondanrnarayanamurthycontinentaltyre', function(req, res, next) {
-  g10++;
-  res.render('index', { title: 'images/q41.jpg',hint:"yaadein puzzle ki trh hoti hai jo lamho ki tasveeryein jodkar mukamal hoti hai..!" });
+  res.render('index', { title: 'images/q41.jpg',hint:"try this one guys..!" });
 });
 //master url
 
-router.get('/g1socialdistancingmoneyheistbridgestonebangaloremirror', function(req, res, next) {
-  g1++;
-  return res.redirect("https://meet.google.com/guu-xris-vwm");
+router.get('/g1socialdistancingmoneyheistbridgestonebombaydyeing', function(req, res, next) {
+  return res.redirect("https://meet.google.com/znp-ewtm-api");
 });
-router.get('/g2callofdutymoneyheistbridgestonebangaloremirror', function(req, res, next) {
-  g2++;
-  return res.redirect("https://meet.google.com/guu-xris-vwm");
+router.get('/g2callofdutymoneyheistbridgestonebombaydyeing', function(req, res, next) {
+  return res.redirect("https://meet.google.com/znp-ewtm-api");
 });
-router.get('/g3indianexpressspacexbridgestonebangaloremirror', function(req, res, next) {
-  g3++;
-  return res.redirect("https://meet.google.com/guu-xris-vwm");
+router.get('/g3indianexpressspacexbridgestonebombaydyeing', function(req, res, next) {
+  return res.redirect("https://meet.google.com/znp-ewtm-api");
 });
-router.get('/g4netflixspacexfacebookbangaloremirror', function(req, res, next) {
-  g4++;
- return res.redirect("https://meet.google.com/guu-xris-vwm");
+router.get('/g4netflixandchillspacexfacebookbombaydyeing', function(req, res, next) {
+ return res.redirect("https://meet.google.com/znp-ewtm-api");
 });
-router.get('/g5amphancyclonemariofacebookbangaloremirror', function(req, res, next) {
-  g5++;
- return res.redirect("https://meet.google.com/guu-xris-vwm");
+router.get('/g5amphancyclonemariofacebookbombaydyeing', function(req, res, next) {
+ return res.redirect("https://meet.google.com/znp-ewtm-api");
 });
-router.get('/g6dandimarchmariofacebookbangaloremirror',function(req, res, next) {
-  g6++;
- return res.redirect("https://meet.google.com/guu-xris-vwm");
+router.get('/g6dandimarchmariofacebookbombaydyeing',function(req, res, next) {
+ return res.redirect("https://meet.google.com/znp-ewtm-api");
 });
-router.get('/g7legoqueereyecontinentaltyrebangaloremirror', function(req, res, next) {
-  g7++;
-  return res.redirect("https://meet.google.com/guu-xris-vwm");
+router.get('/g7legoqueereyecontinentaltyrebombaydyeing', function(req, res, next) {
+  return res.redirect("https://meet.google.com/znp-ewtm-api");
 });
-router.get('/g8maxlifeinsurancequeereyecontinentaltyrebangaloremirror', function(req, res, next) {
-  g8++;
- return res.redirect("https://meet.google.com/guu-xris-vwm");
+router.get('/g8maxlifeinsurancequeereyecontinentaltyrebombaydyeing', function(req, res, next) {
+ return res.redirect("https://meet.google.com/znp-ewtm-api");
 });
-router.get('/g9businessstandardnrnarayanamurthycontinentaltyrebangaloremirror', function(req, res, next) {
-  g9++;
- return res.redirect("https://meet.google.com/guu-xris-vwm");
+router.get('/g9businessstandardnrnarayanamurthycontinentaltyrebombaydyeing', function(req, res, next) {
+ return res.redirect("https://meet.google.com/znp-ewtm-api");
 });
-router.get('/g10herohondanrnarayanamurthycontinentaltyrebangaloremirror', function(req, res, next) {
-  g10++;
- return res.redirect("https://meet.google.com/guu-xris-vwm");
+router.get('/g10herohondanrnarayanamurthycontinentaltyrebombaydyeing', function(req, res, next) {
+ return res.redirect("https://meet.google.com/znp-ewtm-api");
 });
 //
 //answer handler
