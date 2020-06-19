@@ -63,6 +63,7 @@ margin-right: 15px;
 }
 
 .btn1{
+  color: #fff;
   background-color: #FFBB0B;
 }
 .btn1:hover{
@@ -88,4 +89,13 @@ margin-right: 15px;
   .btn{
     margin-top: 20px;
   }
+}
+.drp-menu{
+  padding: 20px;
+  /* box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5), -4px -4px 15px rgba(0, 0, 0, 0.3); */
+}
+.drp-menu a{
+  padding: 10px;
+  margin-top: 0;
+  margin-bottom: 50px;
 }
