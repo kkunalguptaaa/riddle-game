@@ -137,34 +137,34 @@ router.get('/g10herohondanrnarayanamurthycontinentaltyre', function(req, res, ne
 //master url
 
 router.get('/g1socialdistancingmoneyheistbridgestonebombaydyeing', function(req, res, next) {
-  return res.redirect("https://meet.google.com/znp-ewtm-api");
+  return res.redirect("https://meet.google.com/dij-rhor-jti");
 });
 router.get('/g2callofdutymoneyheistbridgestonebombaydyeing', function(req, res, next) {
-  return res.redirect("https://meet.google.com/znp-ewtm-api");
+  return res.redirect("https://meet.google.com/dij-rhor-jti");
 });
 router.get('/g3indianexpressspacexbridgestonebombaydyeing', function(req, res, next) {
-  return res.redirect("https://meet.google.com/znp-ewtm-api");
+  return res.redirect("https://meet.google.com/dij-rhor-jti");
 });
 router.get('/g4netflixandchillspacexfacebookbombaydyeing', function(req, res, next) {
- return res.redirect("https://meet.google.com/znp-ewtm-api");
+ return res.redirect("https://meet.google.com/dij-rhor-jti");
 });
 router.get('/g5amphancyclonemariofacebookbombaydyeing', function(req, res, next) {
- return res.redirect("https://meet.google.com/znp-ewtm-api");
+ return res.redirect("https://meet.google.com/dij-rhor-jti");
 });
 router.get('/g6dandimarchmariofacebookbombaydyeing',function(req, res, next) {
- return res.redirect("https://meet.google.com/znp-ewtm-api");
+ return res.redirect("https://meet.google.com/dij-rhor-jti");
 });
 router.get('/g7legoqueereyecontinentaltyrebombaydyeing', function(req, res, next) {
-  return res.redirect("https://meet.google.com/znp-ewtm-api");
+  return res.redirect("https://meet.google.com/dij-rhor-jti");
 });
 router.get('/g8maxlifeinsurancequeereyecontinentaltyrebombaydyeing', function(req, res, next) {
- return res.redirect("https://meet.google.com/znp-ewtm-api");
+ return res.redirect("https://meet.google.com/dij-rhor-jti");
 });
 router.get('/g9businessstandardnrnarayanamurthycontinentaltyrebombaydyeing', function(req, res, next) {
- return res.redirect("https://meet.google.com/znp-ewtm-api");
+ return res.redirect("https://meet.google.com/dij-rhor-jti");
 });
 router.get('/g10herohondanrnarayanamurthycontinentaltyrebombaydyeing', function(req, res, next) {
- return res.redirect("https://meet.google.com/znp-ewtm-api");
+ return res.redirect("https://meet.google.com/dij-rhor-jti");
 });
 //
 //answer handler
